@@ -1,6 +1,6 @@
 # TreeAdopt
 
-🔗 Live Site: TreeAdopt
+🔗 [Live Site](https://nikosdiakonis.github.io/TreeAdopt/)
 
 ## Project Overview
 TreeAdopt is a mini-project that serves as a showcase of a responsive website using Bootstrap. This project features an animated gradient background and is designed with a focus on user-friendliness and visual appeal.
